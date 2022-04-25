@@ -13,11 +13,17 @@ clone all the repositories
 2. run all the solutions using their default launchSettings profile
 
 locally solution should run on following ports
+
   merchant-management 		- "https://localhost:7029;http://localhost:5029"
+  
   payment-gateway 	  		- "https://localhost:7028;http://localhost:5028"
+  
   checkout-api		  		- "https://localhost:7020;http://localhost:5020"
+  
   acquiring-bank	  		- "https://localhost:7027;http://localhost:5027"
+  
   transaction-projection	- "https://localhost:7026;http://localhost:5026"
+  
   
 All the api docs is in swagger.  
   
