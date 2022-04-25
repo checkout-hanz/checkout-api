@@ -8,7 +8,7 @@ clone all the repositories
  - transaction-projection
 
 1. run RabbitMq locally
-  docker run -d --hostname localhost --name some-rabbit -p 15672:15672 -p 5672:5672 rabbitmq:3-management
+  "docker run -d --hostname localhost --name some-rabbit -p 15672:15672 -p 5672:5672 rabbitmq:3-management"
   
 2. run all the solutions using their default launchSettings profile
 
