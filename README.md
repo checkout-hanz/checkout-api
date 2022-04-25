@@ -29,3 +29,4 @@ All the api docs is in swagger.
   
 Architecture:
 
+![alt text](https://github.com/checkout-hanz/checkout-api/blob/main/checkout-architec.JPG?raw=true)
